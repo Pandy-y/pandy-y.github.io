@@ -13,7 +13,7 @@
   <section class="header">
     <nav>
       <font size="10" color="#ffffff">Pandyy's Website</font>
-      <div class="nav-links">
+      <div class="nav-links" id="navLinks">
         <i class="fa fa-times" onclick="hideMenu()"></i>
          <ul>
              <li><a href="">Home</a></li>
@@ -30,5 +30,19 @@
        <a href="/aboutme" class="link-box">Click me to learn about Pandyy!</a>
      </div>
   </section>
+      
+<script>
+  
+  var navLinks = document.getElementById("navLinks")
+  
+  function showMenu(){
+    navLinks.style.right = "0";
+  }
+  function hideMenu(){
+    navLinks.style.right = "-200px";
+  }
+  
+</script>  
+
 </body>
 </html>
