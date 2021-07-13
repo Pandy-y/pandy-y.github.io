@@ -87,4 +87,22 @@ nav img{
     font-size: 20px;
   }
 }
-    
+
+.upcoming-projects{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.upcoming-projects h1{
+  font-size: 45px;
+  font-weight: 600;
+}
+.upcoming-projects p{
+  color: #777;
+  font-size: 16px;
+  font-weight: 309;
+  line-height: 30px;
+  padding: 10px;
+}
