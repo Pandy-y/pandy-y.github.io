@@ -107,3 +107,10 @@ p{
   line-height: 30px;
   padding: 10px;
 }
+.row{
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+  
