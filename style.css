@@ -101,6 +101,7 @@ nav .fa{
     right: -200;
     text-align: left;
     z-index: 2;
+    transition: 1s;
   }
   nav .fa{
     display: block;
