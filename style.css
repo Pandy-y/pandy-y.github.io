@@ -37,7 +37,7 @@ nav img{
 }
 .nav-links ul li::after{ 
   content: ''; 
-  width: 0%; 
+  width: 59%; 
   height: 2px; 
   background: #f44336; 
   display: block; 
