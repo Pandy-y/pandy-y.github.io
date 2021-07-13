@@ -75,9 +75,9 @@ nav img{
   position: relative; 
   cursor: pointer;
 }
-  .hero-btn:hover{ 
-    border: 1px solid #f44336; 
-    background: #f44336; 
-    transition: is; 
+.hero-btn:hover{ 
+   border: 1px solid #f44336; 
+   background: #f44336; 
+   transition: is; 
 } 
 
