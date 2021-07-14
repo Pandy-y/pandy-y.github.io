@@ -113,3 +113,25 @@ p{
   justify-content: space-between;
   flex-direction: column;
 }
+
+
+
+.biggest-project{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  pading-top: 150px:
+}
+
+h1{
+  font-size: 45px;
+  font-weight: 600;
+}
+
+p{
+  color: #777;
+  font-size: 16px;
+  font-weight: 309;
+  line-height: 30px;
+  padding: 10px;
+}
