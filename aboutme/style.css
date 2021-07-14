@@ -7,7 +7,7 @@
 .header{
   min-height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7));
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7),url(pandy-y.github.io/images/3E0DA48F-6E9B-452B-98F8-961B0DA9262D.png));
   background-position: center;
   background-size: cover;
   position: relative;
