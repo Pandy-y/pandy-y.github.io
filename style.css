@@ -111,9 +111,5 @@ p{
   margin-top: 5%;
   display: flex;
   justify-content: space-between;
-}
-@media(max-width: 700px){
-  .row{
-    flex-direction: column;
-  }
+  flex-direction: column;
 }
