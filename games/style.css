@@ -163,3 +163,8 @@ p{
   margin-bottom: 40px;
   padding: 0;
 }
+@media(max-width: 700px){
+  .newest-project h1{
+    font-size: 23px;
+  }
+}
