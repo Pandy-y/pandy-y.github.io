@@ -119,7 +119,7 @@ p{
 .biggest-project{
   width: 80%;
   margin: auto;
-  text-align: center;
+  text-align: left;
   pading-top: 150px;
   padding-bottom: 400px;
 }
@@ -135,4 +135,8 @@ p{
   font-weight: 309;
   line-height: 30px;
   padding: 10px;
+}
+
+.img{
+  padding-left: 200px;
 }
