@@ -96,12 +96,7 @@ nav img{
   text-align: center;
 }
 
-.qna h1{
-  color: #000000;
-  font-size: 40px;
-  margin-bottom: 40px;
-  padding: 0;
-}
+
 @media(max-width: 700px){
   .qna h1{
     font-size: 30px;
