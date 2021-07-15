@@ -65,7 +65,22 @@ nav img{
   font-size: 14px;
   color: #fff;
 }
-
+.link-box{
+  display: inline-block; 
+  text-decoration: none; 
+  color: #fff; 
+  border: 1px solid #fff; 
+  padding: 12px 34px; 
+  font-size: 13px; 
+  background: transparent; 
+  position: relative; 
+  cursor: pointer;
+}
+.link-box:hover{ 
+  border: 1px solid #f44336; 
+  background: #f44336; 
+  transition: 1s; 
+}
 
 @media(max-width: 700px){
   .text-box h1{
@@ -98,4 +113,27 @@ p{
   display: flex;
   justify-content: space-between;
   flex-direction: column;
+}
+
+
+.qna{
+  margin: 100px auto;
+  width: 80%;
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/images/81973A2A-2B4B-4C85-896F-A9FFD2E777FE.png);
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.qna h1{
+  color: #fff;
+  margin-bottom: 40px;
+  padding: 0;
+}
+@media(max-width: 700px){
+  .qna h1{
+    font-size: 23px;
+  }
 }
